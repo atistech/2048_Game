@@ -1,0 +1,15 @@
+body {
+    background-image: url("back.png");
+}
+
+#title {
+    font-weight: 700;
+    color: #776e65;
+    font-size: 74px;
+}
+
+#new {
+    background-color: #8f7a66;
+    color: white;
+    padding: 10px;
+}
